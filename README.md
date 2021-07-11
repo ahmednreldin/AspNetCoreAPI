@@ -32,10 +32,11 @@ Domain Validations
 Repository
 
 
-
- ## output format 
- * Content nagation 
- * serilize to json , xml , CSV 
+Content nagation 
+ * RespectBrowserAcceptHeader 
+ * Serilize output format to Json , Xml 
+ * Restricting media type to accept only json,xml
+ * Custom formatter to output CSV 
 
  ## Logger
  configure logger service using NLog library
