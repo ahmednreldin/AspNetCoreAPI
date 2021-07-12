@@ -46,3 +46,6 @@ Content nagation
 
  ## Global Error handling 
  using Custom middleware and output error in json format 
+
+## Custom 
+* Custom modelBinding for IEnumerable  
