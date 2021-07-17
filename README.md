@@ -49,3 +49,10 @@ Content nagation
 
 ## Custom 
 * Custom modelBinding for IEnumerable  
+* Action Filter 
+
+## Functinality 
+* Filtering 
+* Sorting 
+* Searching 
+* Paging 
