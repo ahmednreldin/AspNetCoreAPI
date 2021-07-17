@@ -13,5 +13,5 @@ public class Company
     [MaxLength(60, ErrorMessage = "Maximum length for the address is 60 characters")]
     public string Address { get; set; }
     public string Countery { get; set; }
-    public ICollection<Employee> Employeses { get; set; }
+    public ICollection<Employee> Employees { get; set; }
 }
